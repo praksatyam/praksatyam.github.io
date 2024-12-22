@@ -3,7 +3,8 @@ title: "Triangulation Based Depth Sensor for the Visually Impaired"
 collection: projects
 type: "python, rasberry-PI, arduino, stereo-imaging"
 permalink: /projects/depth-sensor-technology
-venue: ""
+venue: "Konstructiv Berlin GmBH"
+technology: "Python, Arduino, Rassberry PI, Stereo-imaging"
 date: 2020-05-01
 location: "Berlin, Germany"
 ---
