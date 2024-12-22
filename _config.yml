@@ -12,7 +12,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Satyam Prakash Gupta"
 description              : &description "This is my website!"
-url                      : https://praksatyam.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://praksatyam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "praksatyam/praksatyam.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Satyam Prakash Gupta"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Computer Enthusiast + Student"
   location         : "Netherlands"
   employer         : "Technical University of Delft"
@@ -227,6 +227,28 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _posts
   - scope:
       path: ""

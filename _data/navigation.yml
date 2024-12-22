@@ -12,16 +12,16 @@ main:
   #   url: /talks/    
 
   - title: "Projects"
-    url: projects/    
+    url: /projects/    
     
   - title: "About Me"
-    url: about/
+    url: /about/
         
   - title: "Tech Blogs"
-    url: year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: cv/
+    url: /cv/
     
   - title: "Guide"
-    url: markdown/
+    url: /markdown/
