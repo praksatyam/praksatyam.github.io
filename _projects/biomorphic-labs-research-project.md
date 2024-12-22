@@ -4,6 +4,7 @@ collection: projects
 type: "Project, Deeplearning"
 permalink: /projects/biomorphic-labs-research-project
 venue: "Delft University of Technology, Biomarphic Labs"
+technology: "Tensorflow, Pytorch, Deep Learning"
 date: 2024-11-25
 location: "Delft, Netherlands"
 ---
