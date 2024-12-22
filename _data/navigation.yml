@@ -14,7 +14,7 @@ main:
   #   url: /portfolio/ 
 
   - title: "Projects"
-    url: /teaching/    
+    url: /projects/    
         
   - title: "Tech Blogs"
     url: /year-archive/
