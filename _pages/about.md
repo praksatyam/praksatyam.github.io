@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website! I'm Satyam!
 
-I’m an hardworking and passionate Computer Science and Engineering student at the Technical University of Delft, fueled by a relentless drive to learn and grow. As I contnues to find my vocation in computer science I have discovered a passion for deep learning, robotics, and data science algorithms—areas where I am excited to explore and innovate in.
+I’m a hardworking and passionate Computer Science and Engineering student at the Technical University of Delft, fueled by a relentless drive to learn and grow. As I contnues to find my vocation in computer science I have discovered a passion for deep learning, robotics, and data science algorithms—areas where I am excited to explore and innovate in.
 
 As I work towards becoming a top-tier software engineer, I’m always pushing myself to evolve. I actively seek out opportunities to refine my skills, whether through personal projects or research projects at university. I love diving deep into new challenges and continuously building upon my knowledge.
 
