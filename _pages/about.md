@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Satyam!
+Welcome to my website! I'm Satyam!
 
-I am currently pursuing my bachelor's degree in Computer Science and Engineering at the Technical University of Delft. I am passionate about working on projects that align with my interests, such as [robotics] (), [algorithms] (), and building Machine Learning Models. You can explore my projects in more detail in the projects section.
+I’m an hardworking and passionate Computer Science and Engineering student at the Technical University of Delft, fueled by a relentless drive to learn and grow. As I contnues to find my vocation in computer science I have discovered a passion for deep learning, robotics, and data science algorithms—areas where I am excited to explore and innovate in.
 
-On this website, I also love to share my thoughts and experiences by [bloggin] (https://praksatyam.github.io/year-archive/) about technological concepts, research topics, and methods that I find intriguing.
+As I work towards becoming a top-tier software engineer, I’m always pushing myself to evolve. I actively seek out opportunities to refine my skills, whether through personal projects or research projects at university. I love diving deep into new challenges and continuously building upon my knowledge.
 
-I hope you enjoy browsing through the website!
+When I’m not immersed in coding and problem-solving, you’ll find me reading books on psychology or hitting the tennis court for a game.
+
+This website is a space where I share my projects and experiences in Computer Science—keep an eye on it as I continue to update it with new content (currently under //TODO: …)!
+
+Thanks for visiting, and I hope you enjoy browsing through my work!
 
 
 <!-- A data-driven personal website
