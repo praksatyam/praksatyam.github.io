@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Welcome to my Website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my website! I'm Satyam!
-
-I’m a hardworking and passionate Computer Science and Engineering student at the Technical University of Delft, fueled by a relentless drive to learn and grow. As I contnues to find my vocation in computer science I have discovered a passion for deep learning, robotics, and data science algorithms—areas where I am excited to explore and innovate in.
+I’m a hardworking and passionate Computer Science and Engineering student at the Delft University of Technology, fueled by a relentless drive to learn and grow. As I continue to find my vocation in computer science, I have discovered a passion for **deep learning**, **robotics**, and **data science algorithms**—areas in which I am excited to explore and innovate.
 
 As I work towards becoming a top-tier software engineer, I’m always pushing myself to evolve. I actively seek out opportunities to refine my skills, whether through personal projects or research projects at university. I love diving deep into new challenges and continuously building upon my knowledge.
 
@@ -18,6 +16,12 @@ When I’m not immersed in coding and problem-solving, you’ll find me reading 
 This website is a space where I share my projects and experiences in Computer Science—keep an eye on it as I continue to update it with new content (currently under //TODO: …)!
 
 Thanks for visiting, and I hope you enjoy browsing through my work!
+
+Best Regards,
+Satyam Prakash Gupta
+satyam.tud@gmail.com
+
+
 
 
 <!-- A data-driven personal website
