@@ -18,7 +18,9 @@ This website is a space where I share my projects and experiences in Computer Sc
 Thanks for visiting, and I hope you enjoy browsing through my work!
 
 Best Regards,
+
 Satyam Prakash Gupta
+
 satyam.tud@gmail.com
 
 
