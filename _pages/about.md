@@ -6,22 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi there!
 
-I’m a hardworking and passionate Computer Science and Engineering student at the Delft University of Technology, fueled by a relentless drive to learn and grow. As I continue to find my vocation in computer science, I have discovered a passion for **deep learning**, **robotics**, and **data science algorithms**—areas in which I am excited to explore and innovate.
+I’m Satyam Prakash Gupta, a Computer Science and Engineering student at Delft University of Technology with a serious passion for learning and growing in the field. As I continue to explore my path in computer science, I’ve found myself drawn to deep learning, robotics, and data science algorithms—fields that excite me and inspire me to innovate.
 
-As I work towards becoming a top-tier software engineer, I’m always pushing myself to evolve. I actively seek out opportunities to refine my skills, whether through personal projects or research projects at university. I love diving deep into new challenges and continuously building upon my knowledge.
+I’m always looking for ways to challenge myself and get better at what I do. Whether it’s through personal projects or university research, I’m constantly honing my skills and diving into new challenges to keep learning and evolving.
 
-When I’m not immersed in coding and problem-solving, you’ll find me reading books on psychology or hitting the tennis court for a game.
+When I’m not coding or solving problems, you’ll probably find me reading about psychology or playing a game of tennis.
 
-This website is a space where I share my projects and experiences in Computer Science—keep an eye on it as I continue to update it with new content (currently under //TODO: …)!
+This website is where I share my projects and experiences in Computer Science—so stay tuned for updates (still working on a few things—//TODO: …).
 
-Thanks for visiting, and I hope you enjoy browsing through my work!
+Thanks for stopping by, and I hope you enjoy exploring my work!
 
-Best Regards,
-
-Satyam Prakash Gupta
-
-satyam.tud@gmail.com
+Feel free to reach out at: satyam.tud@gmail.com
 
 
 
