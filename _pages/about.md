@@ -6,20 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there!
+Hey!
 
-I’m Satyam Prakash Gupta, a Computer Science and Engineering student at Delft University of Technology with a serious passion for learning and growing in the field. As I continue to explore my path in computer science, I’ve found myself drawn to deep learning, robotics, and data science algorithms—fields that excite me and inspire me to innovate.
+I’m Satyam, a Computer Science and Engineering student at Delft University of Technology. I’m super curious and always looking to learn new things. Lately, I’ve been really into deep learning, robotics, and data science algorithms—I find them fascinating, and I can’t wait to see where they take me.
 
-I’m always looking for ways to challenge myself and get better at what I do. Whether it’s through personal projects or university research, I’m constantly honing my skills and diving into new challenges to keep learning and evolving.
+I’m always trying to get better at what I do, whether it’s through personal projects or research at university. I love taking on new challenges and figuring things out along the way.
 
-When I’m not coding or solving problems, you’ll probably find me reading about psychology or playing a game of tennis.
+Outside of coding, I like to read about psychology (it’s amazing how the mind works!) or play some tennis to unwind.
 
-This website is where I share my projects and experiences in Computer Science—so stay tuned for updates (still working on a few things—//TODO: …).
+This website is my little corner where I share my projects and experiences in Computer Science. It’s still a work in progress (I’ve got a few things on my //TODO list), but stay tuned for updates!
 
-Thanks for stopping by, and I hope you enjoy exploring my work!
+Thanks for dropping by, and I hope you enjoy checking out my work!
 
-Feel free to reach out at: satyam.tud@gmail.com
-
+If you want to get in touch, feel free to email me at: satyam.tud@gmail.com
 
 
 
